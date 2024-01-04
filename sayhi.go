@@ -3,6 +3,6 @@ package sayhi
 import "fmt"
 
 func Sayhi(name string) string {
-	message := fmt.Sprintf("Hi there broski, %v!", name)
+	message := fmt.Sprintf("Well well well if it isnt, %v!", name)
 	return message
 }
